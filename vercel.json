@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/observatory/harfbuzz/index.html" }
+  ]
+}
