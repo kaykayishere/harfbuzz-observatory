@@ -1,0 +1,30 @@
+{
+  "shapers": [
+    {"name": "arabic", "fileCount": 3, "files": ["hb-ot-shaper-arabic.cc", "hb-ot-shaper-arabic.hh", "hb-ot-shaper-arabic-fallback.hh"]},
+    {"name": "arabic-fallback", "fileCount": 1, "files": ["hb-ot-shaper-arabic-fallback.hh"]},
+    {"name": "arabic-joining-list", "fileCount": 1, "files": ["hb-ot-shaper-arabic-joining-list.hh"]},
+    {"name": "arabic-pua", "fileCount": 1, "files": ["hb-ot-shaper-arabic-pua.hh"]},
+    {"name": "arabic-table", "fileCount": 1, "files": ["hb-ot-shaper-arabic-table.hh"]},
+    {"name": "arabic-win1256", "fileCount": 1, "files": ["hb-ot-shaper-arabic-win1256.hh"]},
+    {"name": "default", "fileCount": 1, "files": ["hb-ot-shaper-default.cc"]},
+    {"name": "hangul", "fileCount": 1, "files": ["hb-ot-shaper-hangul.cc"]},
+    {"name": "hebrew", "fileCount": 1, "files": ["hb-ot-shaper-hebrew.cc"]},
+    {"name": "indic", "fileCount": 2, "files": ["hb-ot-shaper-indic.cc", "hb-ot-shaper-indic.hh"]},
+    {"name": "indic-machine", "fileCount": 2, "files": ["hb-ot-shaper-indic-machine.hh", "hb-ot-shaper-indic-machine.rl"]},
+    {"name": "indic-table", "fileCount": 1, "files": ["hb-ot-shaper-indic-table.cc"]},
+    {"name": "khmer", "fileCount": 1, "files": ["hb-ot-shaper-khmer.cc"]},
+    {"name": "khmer-machine", "fileCount": 2, "files": ["hb-ot-shaper-khmer-machine.hh", "hb-ot-shaper-khmer-machine.rl"]},
+    {"name": "myanmar", "fileCount": 1, "files": ["hb-ot-shaper-myanmar.cc"]},
+    {"name": "myanmar-machine", "fileCount": 2, "files": ["hb-ot-shaper-myanmar-machine.hh", "hb-ot-shaper-myanmar-machine.rl"]},
+    {"name": "syllabic", "fileCount": 2, "files": ["hb-ot-shaper-syllabic.cc", "hb-ot-shaper-syllabic.hh"]},
+    {"name": "thai", "fileCount": 1, "files": ["hb-ot-shaper-thai.cc"]},
+    {"name": "use", "fileCount": 1, "files": ["hb-ot-shaper-use.cc"]},
+    {"name": "use-machine", "fileCount": 2, "files": ["hb-ot-shaper-use-machine.hh", "hb-ot-shaper-use-machine.rl"]},
+    {"name": "use-table", "fileCount": 1, "files": ["hb-ot-shaper-use-table.hh"]},
+    {"name": "vowel-constraints", "fileCount": 2, "files": ["hb-ot-shaper-vowel-constraints.cc", "hb-ot-shaper-vowel-constraints.hh"]}
+  ],
+  "totalFiles": 3729,
+  "testFiles": 2984,
+  "dataCandidateFiles": 2280,
+  "shaperSourceFiles": 30
+}
